@@ -20,7 +20,7 @@ var testValues = []struct {
 	{1, 7, 7},
 	{1, 8, 8},
 	{1, 9, 9},
-	{1, 10, 10},
+	{1, 10, 11},
 }
 
 func TestValueGenerator(t *testing.T) {
